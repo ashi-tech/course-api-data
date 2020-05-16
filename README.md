@@ -19,7 +19,7 @@ http://localhost:8080/topics/
 3.getTopic:GET   
 http://localhost:8080/topics/javaee    
 
-4.updateTopic:PUT
+4.updateTopic:PUT   
 http://localhost:8080/topics/javaee   
  {
     "id": "javaee",
